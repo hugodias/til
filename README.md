@@ -4,6 +4,8 @@
 
 ### Categories
 
+#### Tech
+
 * [Devops](#devops)
 * [Git](#git)
 * [Ruby](#ruby)
@@ -11,6 +13,8 @@
 * [Vim](#vim)
 
 ---
+
+## Tech
 
 ### Git
 
@@ -21,4 +25,3 @@
 
 - [Relative numbers](vim/relative-numbers.md)
 - [Undo persistent](vim/undo-persistent.md)
-
