@@ -4,11 +4,11 @@
 
 ### Categories
 
-* [Devops] (#devops)
-* [Git] (#git)
-* [Ruby] (#ruby)
-* [Rails] (#rails)
-* [Vim] (#vim)
+* [Devops](#devops)
+* [Git](#git)
+* [Ruby](#ruby)
+* [Rails](#rails)
+* [Vim](#vim)
 
 ---
 
