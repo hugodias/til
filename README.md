@@ -11,6 +11,7 @@
 * [Ruby](#ruby)
 * [Rails](#rails)
 * [Vim](#vim)
+* [VueJS](#vuejs)
 
 ---
 
@@ -25,3 +26,7 @@
 
 - [Relative numbers](vim/relative-numbers.md)
 - [Undo persistent](vim/undo-persistent.md)
+
+### VueJS
+
+- [Use vue-resource to get json](vuejs/vue-resource-get-json.md)
